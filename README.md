@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning [information is absent]
 - 💞️ I’m looking to collaborate on [information is absent]
 - 📫 How to reach me [information is absent]
-- 😄 Pronouns: [information is absent]
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: [DELETED]
 print("дрыц-тыц телевизор")
 
