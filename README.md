@@ -5,6 +5,7 @@
 - 📫 How to reach me [information is absent]
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: [DELETED]
+
 print("дрыц-тыц телевизор")
 
 <!---
